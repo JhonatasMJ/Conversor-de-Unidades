@@ -5,7 +5,7 @@ Um pequeno conversor de unidades feito em JavaScript
 
 ## Screenshots
 
-![App Screenshot](conversorunidades.png)
+![App Screenshot](print.png)
 
 ## Tecnologias Utilizadas 💻
 
